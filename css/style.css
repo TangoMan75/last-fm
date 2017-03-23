@@ -1,0 +1,29 @@
+/**
+ * @author Matthias Morin <tangoman@free.fr>
+ */
+
+form {
+	margin: 15px;
+}
+
+.small-cover {
+	margin-bottom: 15px;
+}
+
+.artist-image {
+	margin-bottom: 10px;
+}
+
+.card {
+	padding: 43px;
+}
+
+.glyphicon-triangle-bottom, .small-cover, .artist-image {
+	cursor: pointer;
+}
+
+.list-box > .glyphicon, .list-box > .glyphicon {
+	display: block;
+	text-align: center;
+	font-size: 25px;
+}
